@@ -7,4 +7,19 @@ public class Aspirant extends Student {
         super(name, age);
         this.work = work;
     }
+
+    public String getWork() {
+        return work;
+    }
+
+    public void setWork(String work) {
+        this.work = work;
+    }
+
+    @Override
+    public String toString() {
+        return "Aspirant{" +
+                "work='" + work + '\'' +
+                "} " + super.toString();
+    }
 }

@@ -35,6 +35,7 @@ public class Lesson10 {
 
 
 
+/*
     public static void main(String[] args) {
         Student student = new Student("Den", 22);
         System.out.println(student);
@@ -44,6 +45,11 @@ public class Lesson10 {
 
     }
 
+*/
+
+    public static void main(String[] args) {
+
+    }
 
 }
 
