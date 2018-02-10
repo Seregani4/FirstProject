@@ -46,7 +46,6 @@ public class Main11 implements Cloneable {
 
         if (x != main11.x) return false;
         return y == main11.y;
-
     }
 
     void m() {
